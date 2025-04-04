@@ -1,0 +1,83 @@
+Débutant (1-15)
+Somme de deux nombres : Écris un programme qui demande deux nombres et affiche leur somme.
+
+Pair ou impair : Demande un nombre et indique s'il est pair ou impair.
+
+Nombre premier : Vérifie si un nombre est premier.
+
+Factorielle : Calcule la factorielle d'un nombre donné.
+
+Inversion de chaîne : Inverse une chaîne de caractères saisie par l'utilisateur.
+
+Table de multiplication : Affiche la table de multiplication d'un nombre donné.
+
+Échange de variables : Échange la valeur de deux variables sans utiliser de variable temporaire.
+
+Somme des chiffres : Calcule la somme des chiffres d'un nombre entier.
+
+Compte à rebours : Affiche un compte à rebours de 10 à 0.
+
+Mot palindrome : Vérifie si un mot est un palindrome.
+
+Suite de Fibonacci : Affiche les n premiers termes de la suite de Fibonacci.
+
+Maximum de trois nombres : Trouve le plus grand de trois nombres donnés.
+
+Remplacement de voyelles : Remplace toutes les voyelles d’une phrase par une étoile (*).
+
+Anagrammes : Vérifie si deux mots sont des anagrammes.
+
+Tri simple : Implémente un algorithme de tri (tri à bulles, insertion, sélection).
+
+Intermédiaire (16-30)
+PGCD : Calcule le plus grand commun diviseur (PGCD) de deux nombres.
+
+Conversion binaire : Convertis un nombre décimal en binaire.
+
+Carrés parfaits : Affiche tous les carrés parfaits inférieurs à un nombre donné.
+
+Génération de mot de passe : Génère un mot de passe aléatoire avec chiffres et lettres.
+
+Recherche dichotomique : Implémente une recherche dichotomique sur une liste triée.
+
+Nombres parfaits : Vérifie si un nombre est parfait (somme de ses diviseurs propres = nombre).
+
+Somme des n premiers entiers : Calcule la somme des n premiers entiers naturels sans boucle (n*(n+1)/2).
+
+Trier une liste sans sort() : Implémente un tri maison (fusion, insertion ou rapide).
+
+Produit scalaire : Calcule le produit scalaire de deux listes de même taille.
+
+Dictionnaire inversé : Inverse les clés et valeurs d'un dictionnaire.
+
+Nombre Armstrong : Vérifie si un nombre est un nombre d'Armstrong.
+
+Rotation de liste : Fait une rotation à droite ou à gauche d’une liste.
+
+Vérification d’adresse e-mail : Vérifie si une chaîne respecte le format d’un e-mail.
+
+Remplissage d’une matrice : Remplit une matrice carrée en spirale.
+
+Compression de chaîne : Compresse une chaîne avec le format "aaabb" → "a3b2".
+
+Confirmé (31-40)
+Système de gestion d’inventaire : Programme qui gère un inventaire avec ajout, suppression et modification d’articles.
+
+Labyrinthe : Génère un labyrinthe sous forme de grille et permet de trouver un chemin avec un algorithme (BFS/DFS).
+
+Équation du second degré : Résout une équation quadratique avec discriminant.
+
+Hachage de mot de passe : Stocke et compare des mots de passe avec hashlib.
+
+Convertisseur de nombre en lettres : Convertit un nombre (123) en mots ("cent vingt-trois").
+
+Jeu du pendu : Implémente un jeu du pendu basique.
+
+Automate cellulaire : Implémente le jeu de la vie de Conway.
+
+Solveur de Sudoku : Implémente un algorithme qui résout un Sudoku.
+
+Interpréteur de commandes : Simule un mini-shell avec exécution de commandes.
+
+Compression de Huffman : Implémente la compression de Huffman pour un texte donné.
+

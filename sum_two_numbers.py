@@ -1,0 +1,6 @@
+print('Veuillez choisir un premier nombre')
+a = input('Nombre: ')
+print('Veuillez choisir un second nombre')
+b = input('Nombre: ')
+c = int(a) + int(b)
+print(f'Le resultat de {a} + {b} est : {c}')
